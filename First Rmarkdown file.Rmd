@@ -1,0 +1,39 @@
+---
+title: "Markdown - Instruction"
+author: "Me"
+date: "2024-04-01"
+output: html_document
+---
+## Heading 2
+### Hearing 3
+#### Hearing 4 
+##### Hearing 5 
+
+### *Italic* 
+### **BOLD**
+### ***Bold italic***
+
+1. listem item 1 
+2. listem item 2
+
+- bullet 1
+- bullet 2 
+* bullet 3
+* bullet 4
+
+**You can also add link to your document: 
+[Here it is the link from my github](https://github.com/renatojun/Instructions-about-functions-in-R)**
+
+Link to learn more about how to organize your R scripts: [Here it is the link from my github](https://www.rforecology.com/post/organizing-your-r-studio-projects/)
+
+```{r}
+#Like this data, you can put every code that make sense e match with something: 
+answer <- 2 + 4
+answer
+my_data <- cars
+my_data
+```
+
+
+
+
